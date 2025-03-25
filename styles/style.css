@@ -20,7 +20,7 @@
     align-self: center;
 }
 
-.header__links-list-item{
+.header__links-list-item {
     list-style-type: circle;
     text-decoration: underline;
 }
@@ -88,20 +88,20 @@
     margin-right: -30px;
 }
 
-.letter-spacing-extended { 
-    letter-spacing: 0.6em; 
+.letter-spacing-extended {
+    letter-spacing: 0.6em;
 }
 
-.no-letter-spacing { 
-    letter-spacing: 0em; 
+.no-letter-spacing {
+    letter-spacing: 0em;
 }
 
-.text{
+.text {
     color: white;
     font-size: 22px;
 }
 
-.cover__description{
+.cover__description {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
@@ -252,7 +252,7 @@
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     justify-content: space-between;
-    margin: 0px 50px 88px 50px;    
+    margin: 0px 50px 88px 50px;
 }
 
 .socials {
