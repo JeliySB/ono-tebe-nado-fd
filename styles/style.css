@@ -15,7 +15,9 @@
 }
 
 .header__logo {
-    width: 93%;
+    display: block;
+    width: 148;
+    height: 105;
     justify-self: center;
     align-self: center;
 }
