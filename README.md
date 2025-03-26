@@ -1,1 +1,1 @@
-https://github.com/JeliySB/ono-tebe-nado-fd#
+https://github.com/JeliySB/ono-tebe-nado-fd
