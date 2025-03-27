@@ -25,6 +25,10 @@
   list-style-type: none;
 }
 
+.active_item {
+  text-decoration: none;
+}
+
 .adress {
   justify-self: end;
   padding-right: 36px;
